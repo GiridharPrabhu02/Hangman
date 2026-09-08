@@ -45,7 +45,7 @@ hangman.exe
 
 ---
 
-## D. Concepts Practiced
+## D. Concepts Used
 
 * Functions
 * Loops
